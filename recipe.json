@@ -16,7 +16,8 @@
         "#value"
       ],
       "filtersWithout": [
-        {"#item+name": "Wage (qualified labour) - Retail"}
+        {"#item+name": "Wage (qualified labour) - Retail"},
+        {"#item+name": "Wage (non-qualified labour, non-agricultural) - Retail"}
       ]
     }
   }]
